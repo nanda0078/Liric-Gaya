@@ -1,0 +1,5 @@
+{
+  "name": "03. Modifikasi Liric ( menyesuaikan prompt )",
+  "description": "A minimalist tool to rewrite lyrics in various styles using AI, presented in a clean 5-column format.",
+  "requestFramePermissions": []
+}
