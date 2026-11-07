@@ -1,5 +1,5 @@
 {
-  "name": "03. Modifikasi Liric ( menyesuaikan prompt )",
-  "description": "A minimalist tool to rewrite lyrics in various styles using AI, presented in a clean 5-column format.",
+  "name": "Remix Suno Music Maker",
+  "description": "A sophisticated lyric modification and music prompt generation tool powered by Google Gemini, featuring a glassmorphism UI.",
   "requestFramePermissions": []
 }
